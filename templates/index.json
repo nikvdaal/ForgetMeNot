@@ -33,10 +33,31 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_P4dLpe": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "image_yYUE8X"
+        "image_yYUE8X",
+        "image_P4dLpe"
       ],
       "name": "Slideshow",
       "settings": {
@@ -51,32 +72,24 @@
         "background_gradient": ""
       }
     },
-    "before_after_image_aAEdWL": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "slideshow_ERVPPD": {
+      "type": "slideshow",
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": true,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Voor ForgetMeNot",
-        "after_text": "Na ForgetMeNot",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     }
   },
   "order": [
     "slideshow_TJ8KBa",
-    "before_after_image_aAEdWL"
+    "slideshow_ERVPPD"
   ]
 }

@@ -51,35 +51,32 @@
         "background_gradient": ""
       }
     },
-    "featured_collection_yw6JWf": {
-      "type": "featured-collection",
-      "name": "Featured collection",
+    "before_after_image_aAEdWL": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
-        "collection": "",
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": true,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Voor ForgetMeNot",
+        "after_text": "Na ForgetMeNot",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     }
   },
   "order": [
     "slideshow_TJ8KBa",
-    "featured_collection_yw6JWf"
+    "before_after_image_aAEdWL"
   ]
 }

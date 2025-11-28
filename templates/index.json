@@ -15,11 +15,13 @@
         "image_yYUE8X": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Ontwerp_zonder_titel_40.png",
+            "mobile_image": "shopify://shop_images/Ontwerp_zonder_titel_40.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "EVERYTHING MUST GO",
-            "title": "Finale Sale",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
